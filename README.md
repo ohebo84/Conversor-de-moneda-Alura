@@ -1,6 +1,7 @@
 Formación Java Orientado a Objetos | Conversor de Moneda
 
 <h1 align="center">Conversor de Moneda</h1>
+<h2>DESARROLLADO POR: OSCAR HERRERA BONILLA</h2>
 
 <P>Aplicación sencilla y eficiente que permite convertir valores entre diversas monedas, facilitando el cálculo rápido de equivalencias según las tasas de cambio actuales 
   o predeterminadas. Desarrollada en Java, la aplicación funciona desde la consola. Está diseñada para usuarios que necesiten realizar conversiones monetarias de manera rápida 
