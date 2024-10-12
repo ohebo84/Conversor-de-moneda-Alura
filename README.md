@@ -13,6 +13,8 @@ Formación Java Orientado a Objetos | Conversor de Moneda
 **API REST Consumidas :currency_exchange::**
 | [<img src="https://assets.apilayer.com/apis/exchangerates_data.png" width=50>
 <br>
+<sub>Exchange Rates Data API</sub>](https://apilayer.com/marketplace/exchangerates_data-api) |  [
+<br>
 **Requisitos Proyecto:**
 
 El convertidor de moneda debe:
