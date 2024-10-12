@@ -10,8 +10,8 @@ Formación Java Orientado a Objetos | Conversor de Moneda
   de cambio de divisas. Su arquitectura flexible permite a los desarrolladores extender fácilmente la funcionalidad para soportar más monedas o añadir características como gráficos 
   y análisis histórico de tasas.</p>
 
-**API REST Consumidas :currency_exchange::**
-| [<img src="https://assets.apilayer.com/apis/exchangerates_data.png" width=50>
+**API REST Consumidas
+<img src="https://assets.apilayer.com/apis/exchangerates_data.png" width=50>
 <br>
 <sub>Exchange Rates Data API</sub>](https://apilayer.com/marketplace/exchangerates_data-api)
 <br>
